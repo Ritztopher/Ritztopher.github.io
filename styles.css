@@ -6,6 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
+    background-color: #e1e3e7;
 }
 
 .container {
@@ -13,10 +14,16 @@ body {
     margin: 0 auto;
     padding: 0 20px;
     overflow: hidden;
+    
+}
+
+h1 {
+
+    color: #3377de;
 }
 
 header {
-    background-color: #051742;
+    background-color: #3377de;
     color: #fff;
     padding: 10px 0;
 }
