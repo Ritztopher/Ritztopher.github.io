@@ -12,25 +12,26 @@ body {
 .container {
     max-width: 1000px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 30px;
     overflow: hidden;
     
 }
 
 h1 {
 
-    color: #3377de;
+    color: #0f469a;
 }
 
 header {
-    background-color: #3377de;
+    background-color: #0f469a;
     color: #fff;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 
 #logo {
     float: left;
     font-size: 1.5em;
+    color: #ffffffa3;
 }
 
 nav {
@@ -45,7 +46,8 @@ nav {
 
 .nav-links li {
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 10px;
+    font-size: 1.1em
 }
 
 .nav-links li a {
